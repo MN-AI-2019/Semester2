@@ -1,4 +1,4 @@
-# AI class 2019- 2020 Semester II
+# AI class year 2019 - 2020 Semester II
 
 ## 1/25/2020 class:
 
