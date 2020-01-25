@@ -14,4 +14,7 @@ Machine learning
 1. Supervised learning
 Example: House price
 2. Unsupervised learning
-3. Reinforcement learning
+3. Reinforcement learning  
+
+exploration vs exploitation
+
