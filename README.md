@@ -19,5 +19,7 @@ Example: House price
 exploration vs exploitation
 
 ### frozen lake program
-https://colab.research.google.com/drive/1YIEf0nMznP-MJMUdFZVBbdERKf5YWZFH
+https://colab.research.google.com/drive/1YIEf0nMznP-MJMUdFZVBbdERKf5YWZFH   
+Please save a copy first to your Google Drive or Github account before run this. 
+
 
