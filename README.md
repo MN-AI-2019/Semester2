@@ -18,6 +18,6 @@ Example: House price
 
 exploration vs exploitation
 
-### forzen lake program
+### frozen lake program
 https://colab.research.google.com/drive/1YIEf0nMznP-MJMUdFZVBbdERKf5YWZFH
 
