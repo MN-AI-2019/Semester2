@@ -6,6 +6,7 @@
 * https://github.com/MN-AI-2019/Semester2/blob/master/DigitRecog.ipynb
 * https://www.python.org/downloads/release/python-376/
 
+## Class video recording: https://youtu.be/n35xtxe9PnI
 
 ## homework
 * write Python program to grab CoronaVirus data from CDC and send email.
