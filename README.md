@@ -4,7 +4,8 @@
 
 * Neural network example 
 * https://github.com/MN-AI-2019/Semester2/blob/master/DigitRecog.ipynb
-* 
+* https://www.python.org/downloads/release/python-376/
+
 
 ## homework
 * write Python program to grab CoronaVirus data from CDC and send email.
