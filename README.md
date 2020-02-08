@@ -1,5 +1,14 @@
 # AI class year 2019 - 2020 Semester II
 
+## 2/8/2020 class:
+
+* Neural network example 
+* https://github.com/MN-AI-2019/Semester2/blob/master/DigitRecog.ipynb
+* 
+
+## homework
+* write Python program to grab CoronaVirus data from CDC and send email.
+
 ## 1/25/2020 class:
 
 * Open AI introduction by teacher Yichen Wang
