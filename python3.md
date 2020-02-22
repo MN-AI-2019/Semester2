@@ -384,3 +384,24 @@ from functools import reduce
 product = reduce((lambda x, y: x * y), [1, 2, 3, 4])
 print(product)
 ```
+
+### base/sub class
+```
+class Bird: #base class, parent class
+  def run(self):
+    print("on the land")
+  def fly(self):
+    print("in the air")
+
+class Chicken(Bird): #sub class, child class
+  def fly(self):
+    print("very low in the air")
+
+# override
+bird = Bird()
+bird.fly()
+
+chicken = Chicken()
+chicken.fly()
+chicken.run()
+```
