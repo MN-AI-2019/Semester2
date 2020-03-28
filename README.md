@@ -1,5 +1,8 @@
 # AI class year 2019 - 2020 Semester II
 
+## 3/28/2020 class:
+Using Raspberry pi and OpenCV
+
 ## 2/8/2020 class:
 
 * Neural network example 
