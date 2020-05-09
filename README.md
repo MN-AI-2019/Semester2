@@ -1,5 +1,10 @@
 # AI class year 2019 - 2020 Semester II
 
+## 05/09/2020 Last class for this semester
+https://github.com/expo/create-react-native-app  
+https://reactnative.dev/docs/tutorial
+
+
 ## 3/28/2020 class:
 Using Raspberry pi and OpenCV
 
