@@ -4,6 +4,13 @@
 https://github.com/expo/create-react-native-app  
 https://reactnative.dev/docs/tutorial
 
+npm install -g npx
+
+node -v
+https://nodejs.org/en/download/
+
+npx create-react-native-app MyRNApp2
+
 
 ## 3/28/2020 class:
 Using Raspberry pi and OpenCV
